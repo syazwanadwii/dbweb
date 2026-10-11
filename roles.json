@@ -1,0 +1,10 @@
+{
+  "users": [
+    {
+      "username": "Dlii",
+      "password": "admin",
+      "telegramId": 8314856280,
+      "role": "developer"
+    }
+  ]
+}
